@@ -1,0 +1,51 @@
+.help-block {
+    color: red;
+}
+
+label {
+    color: #696cff;
+}
+
+.modal-title {
+    color: #696cff;
+}
+
+.btn-light {
+    color: #696cff;
+}
+
+.list {
+    color: #ffffff;
+}
+.fa {
+    color: #696cff;
+}
+.bi {
+    color: #696cff;
+}
+.card-header {
+    background-color: #696cff;
+}
+
+.menu {
+    color: #696cff;
+}
+
+table td img {
+    height: auto;
+    width: 100px;
+    object-fit: cover;
+}
+
+table td {
+    width: 70px;
+    height: 70px;
+    object-fit: cover;
+}
+
+table td img {
+    max-width: 70px;
+    max-height: 70px;
+}
+
+
